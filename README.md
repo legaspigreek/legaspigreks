@@ -5,21 +5,10 @@ Welcome to my **_Github Profile_**...
 - 🔭 I’m currently a Graduating College Student
 - 🌱 I’m currently learning about Cybersecurity
 
-<div>
 <!--ReadMe Stats -->
 <a href="https://github.com/legaspigreks" targer="_blank">
 <img src="https://github-readme-stats.vercel.app/api?username=legaspigreks&&show_icons=true&title_color=00FFFF&icon_color=FF4500&text_color=87CEFA&bg_color=151515">
-<!--Most Language Used -->
-<a href="https://github.com/legaspigreks" targer="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=legaspigreks&theme=light&hide_langs_below=1&title_color=00FFFF&text_color=87CEFA&bg_color=151515" />
 </a>  
-</div>
-<!--Streak Stats-->
-<a href="https://github.com/legaspigreks" targer="_blank">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=legaspigreks&theme=dark" alt="TanayShukla" /></p>
-<a href="https://github.com/legaspigreks/github-stats1&title_color=00FFFF&text_color=87CEFA&bg_color=151515" targer="_blank"></a>
-</a>
-
 
 <h2 align="left">Languages and Tools:</h2>
 <h3 align="left">Programming Languages and Tools</h3>
@@ -40,4 +29,12 @@ Welcome to my **_Github Profile_**...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+//Streak Stats
+<a href="https://github.com/legaspigreks" targer="_blank">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=legaspigreks&theme=dark" alt="TanayShukla" /></p>
+<a href="https://github.com/legaspigreks/github-stats1&title_color=00FFFF&text_color=87CEFA&bg_color=151515" targer="_blank"></a>
+</a>
+//-Most Language Used 
+<a href="https://github.com/legaspigreks" targer="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=legaspigreks&theme=light&hide_langs_below=1&title_color=00FFFF&text_color=87CEFA&bg_color=151515" /> </a>
 -->
