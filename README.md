@@ -20,7 +20,7 @@ Welcome to my **_Github Profile_**...
 <a href="https://github.com/legaspigreks/github-stats1&title_color=00FFFF&text_color=87CEFA&bg_color=151515" targer="_blank"></a>
 </a>
 
-<h1 align="center">A passionate learner</h1>
+
 <h2 align="left">Languages and Tools:</h2>
 <h3 align="left">Programming Languages and Tools</h3>
 <p align="left">
@@ -31,6 +31,7 @@ Welcome to my **_Github Profile_**...
 </p>
  
 <!--
+<h1 align="center">A passionate learner</h1>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
