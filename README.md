@@ -2,7 +2,7 @@
 
 Welcome to my **_Github Profile_**...
 
-- 🔭 I’m currently a Graduating College Student
+- 🔭 I’m a Graduating College Student
 - 🌱 I’m currently learning about Cybersecurity
 
 <!--ReadMe Stats -->
