@@ -2,14 +2,19 @@
 
 Welcome to my **_Github Profile_**...
 
-- 🔭 I’m a Graduated student with a Degree in Computer Science
-- 🌱 I’m currently learning about Cybersecurity
+A Lifelong learner, Hardworking, and Fresh Graduate College Student seeking employment. Bringing forth a motivated attitude and a variety of powerful skills. Talented in various social media platforms and office technology programs. Committed to utilizing my skills to further the mission of a company.
+---
+*Connect with me*
 
+[![Linkedin: Greek Genver Legaspi](https://img.shields.io/badge/-Greek_Genver_Legaspi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/greeklegaspi/)](https://www.linkedin.com/in/greeklegaspi/)
+[![Instagram:legaspi_greks](https://img.shields.io/badge/-legaspi_greks-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/legaspi_greks/)](https://www.instagram.com/legaspi_greks/)
+![Twitter Follow](https://img.shields.io/twitter/follow/legaspi_greks?style=social)
+
+---
 <!--ReadMe Stats -->
 <a href="https://github.com/legaspigreks" targer="_blank">
 <img src="https://github-readme-stats.vercel.app/api?username=legaspigreks&&show_icons=true&title_color=00FFFF&icon_color=FF4500&text_color=87CEFA&bg_color=151515">
 </a>  
-
 <h2 align="left">Languages and Tools:</h2>
 <h3 align="left">Programming Languages and Tools</h3>
 <p align="left">
@@ -37,4 +42,6 @@ Welcome to my **_Github Profile_**...
 //-Most Language Used 
 <a href="https://github.com/legaspigreks" targer="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=legaspigreks&theme=light&hide_langs_below=1&title_color=00FFFF&text_color=87CEFA&bg_color=151515" /> </a>
+
+https://github.com/anuraghazra/github-readme-stats
 -->
