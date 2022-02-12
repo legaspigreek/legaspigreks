@@ -3,6 +3,7 @@
 Welcome to my **_Github Profile_**...
 
 A Lifelong learner, Hardworking, and Fresh Graduate College Student seeking employment. Bringing forth a motivated attitude and a variety of powerful skills. Talented in various social media platforms and office technology programs. Committed to utilizing my skills to further the mission of a company.
+
 ---
 *Connect with me*
 
